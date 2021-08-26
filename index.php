@@ -7,7 +7,6 @@
     <link rel="stylesheet" type="text/css" href="css/estilo.css">
 	<script src="https://kit.fontawesome.com/a076d05399.js"></script>
 </head>
-
 <body>
 	<div id="topo">
     	<div id="barraNav">
