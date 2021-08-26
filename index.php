@@ -144,9 +144,12 @@
 			</header>
 			<p>
 				<img src="img/trufas/trufalaranja.jpg" alt="trufalaranja">
-			
+				Para decorar você pode utilizar tirinhas de casca de laranja,
+				corte a casca da laranja, somente a parte amarela, em tirinhas
+				bem fininhas, com ajuda de uma tesoura ou faca bem afiada.
+				Coloque sobre uma das trufas.
 			</p>
-			<a href="#" class="btn btn_green">Ver Mais.</a>
+			<a href="/pages/trufadelaranja.php" class="btn btn_green">Ver Mais.</a>
 		</article>
 
 		<article class="borda_arredondada">
