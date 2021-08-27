@@ -2,10 +2,120 @@
 <html lang="pt-br">
 <head>
     <meta charset="utf-8">
-    <title>Atividade Mapa</title>
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <script src="https://kit.fontawesome.com/a076d05399.js"></script>
-    <style>
+    <title>Arte & Doce</title>
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<script src="https://kit.fontawesome.com/a076d05399.js"></script>
+    <link rel="stylesheet" type="text/css" href="css/estilo.css">
+</head>
+
+	
+
+
+</head>
+
+<body>
+	<div id="topo">
+    	<div id="barraNav">
+			<h1>Arte & Doce</h1>
+        	<h5>Aqui você encontra os melhores Doces Caseiros</h5>
+			 <class="quebra"></class>
+				<div id="menu">
+            		<ul>
+            			<li><a href="../index.php">Home</a></li>
+                		<li><a href="quemsomos.php">Quem Somos</a></li>
+                		<li><a href="contato.php">Contato</a></li>
+                		<li><a href="localização.php">Localização</a></li>
+            		</ul>
+				</div>
+        	</div>
+    	</div>
+	</div>
+<form>
+    <form name="f_cadastro" action="#" method="get">
+    <label>Nome:</label>
+    <input class="espaco quebra" type="text" name="f_nome" 
+    maxlength="30" size="30">
+    <label>E-mail:</label>
+    <input class="espaco quebra" type="text" name="f_email" value=""
+    size="30">
+    <label>Mensagem:</label>
+    <input class="espaco quebra" type="text" name="f_mensagem" 
+    maxlength="200">
+    <label class="espaco quebra"><h5>Escolha as opções abaixo:</h5></label>
+
+	<p>Pedido personalizado</p>
+	<input class="quebra" type="checkbox" name="f_pedido">Contato
+    <input class="quebra" type="checkbox" name="f_contato">Trufa de Cafe
+    <input class="quebra" type="checkbox" name="f_trufa">Trufa de Coco
+    <input class="quebra" type="checkbox" name="f_trufa">Trufa de Maracuja
+    <br>
+    <input class="quebra" type="checkbox" name="f_bolo">Bolo de Cenoura
+    <input class="quebra" type="checkbox" name="f_bolo">Bolo de Amendoim
+    <input class="quebra" type="checkbox" name="f_bolo">Bolo de Paçoca
+    <br>
+    <input class="quebra" type="checkbox" name="f_bombom">Bombom de Cereja
+    <input class="quebra" type="checkbox" name="f_bombom">Bombom de Morango
+    <input class="quebra" type="checkbox" name="f_bombom">Bombom de Damasco
+	<input class="quebra" type="checkbox">
+    <div id="dv_btns">
+        <input class="espaco_t quebra" type="submit" name="f_btn_enviar" value="Enviar">
+        <input class="espaco_t quebra" type="reset" name="f_btn_limpar" value="Limpar">
+
+    </div>
+
+    
+</form>
+<br>
+
+<footer>
+		<div class="main-content">
+			<div class="left box">
+				<h2>Dados academicos</h2>
+				<div class="content">
+					<p>Instituição de Ensino:<a href= "https://www.unicesumar.edu.br/"target="blank">Unicesumar</a><br>
+					Aluno: Dwight Almeida de Souza<br> RA: 20047170-5<br></p>
+				
+					<div class="social">
+						<a href= "https://www.linkedin.com/in/dwight-souza-0112a474/"target="blank"><span class="fab fa-linkedin" class="logos-redes" width="60px" height="30px"></a>
+						<a href= "https://github.com/DwightSouza/20047170-5_DwightSouza.git"target="blank"><span class="fab fa-github" class="logos-redes" width="60px" height="30px"></a>
+						<a href= "https://wa.me/554796053086"target="blank"><span class="fab fa-whatsapp" class="logos-redes" width="40px" height="40px"></a>
+					</div>
+				</div>
+			</div><!--left-box-->
+			<div class="right box">
+				<h2>Endereço</h2>
+				<div class="content">
+					<div class="place">
+						<span class="fas fa-map-marker"></span>
+						<span class="text">Germano Lemos, Volta Grande, Navegantes-SC
+					</div>
+
+					<div class="email">
+						<span class="fas fa-envelope"></span>
+						<span class="text">dwightsouza@gmail.com</span>
+					</div>
+
+					<div class="phone">
+						<span class="fas fa-phone-alt"></span>
+						<span class="text">+55 47 99605-3086
+					</div>
+				</div>
+			</div><!--center-box-->
+					</form>
+				</div>
+			</div><!--center-box-->
+		</div><!--main-content-->
+		<div class="bottom">
+			<div class="center">
+				<span class="credit">Criado por<a href="https://github.com/DwightSouza/20047170-5_DwightSouza.git"target="blank">Dwight Souza</a></span>
+				<span class="far fa-copyright"> 2021 Todos os direitos reservados</span>
+			</div>
+		</div>
+	</footer>
+</body>
+</html>
+
+<style>
 a{
   font-size: 14px;
   color: white;
@@ -242,110 +352,4 @@ footer{
 .center{
 	text-align: center;
 }
-
-
 </style>
-
-</head>
-
-<body>
-	<div id="topo">
-    	<div id="barraNav">
-			<h1>Arte & Doce</h1>
-        	<h5>Aqui você encontra os melhores Doces Caseiros</h5>
-			 <class="quebra"></class>
-				<div id="menu">
-            		<ul>
-            			<li><a href="../index.php">Home</a></li>
-                		<li><a href="quemsomos.php">Quem Somos</a></li>
-                		<li><a href="contato.php">Contato</a></li>
-                		<li><a href="localização.php">Localização</a></li>
-            		</ul>
-				</div>
-        	</div>
-    	</div>
-	</div>
-<form>
-    <form name="f_cadastro" action="#" method="get">
-    <label>Nome:</label>
-    <input class="espaco quebra" type="text" name="f_nome" 
-    maxlength="30" size="30">
-    <label>E-mail:</label>
-    <input class="espaco quebra" type="text" name="f_email" value=""
-    size="30">
-    <label>Mensagem:</label>
-    <input class="espaco quebra" type="text" name="f_mensagem" 
-    maxlength="200">
-    <label class="espaco quebra"><h5>Escolha as opções abaixo:</h5></label>
-
-	<p>Pedido personalizado</p>
-	<input class="quebra" type="checkbox" name="f_pedido">Contato
-    <input class="quebra" type="checkbox" name="f_contato">Trufa de Cafe
-    <input class="quebra" type="checkbox" name="f_trufa">Trufa de Coco
-    <input class="quebra" type="checkbox" name="f_trufa">Trufa de Maracuja
-    <br>
-    <input class="quebra" type="checkbox" name="f_bolo">Bolo de Cenoura
-    <input class="quebra" type="checkbox" name="f_bolo">Bolo de Amendoim
-    <input class="quebra" type="checkbox" name="f_bolo">Bolo de Paçoca
-    <br>
-    <input class="quebra" type="checkbox" name="f_bombom">Bombom de Cereja
-    <input class="quebra" type="checkbox" name="f_bombom">Bombom de Morango
-    <input class="quebra" type="checkbox" name="f_bombom">Bombom de Damasco
-	<input class="quebra" type="checkbox">
-    <div id="dv_btns">
-        <input class="espaco_t quebra" type="submit" name="f_btn_enviar" value="Enviar">
-        <input class="espaco_t quebra" type="reset" name="f_btn_limpar" value="Limpar">
-
-    </div>
-
-    
-</form>
-<br>
-
-<footer>
-		<div class="main-content">
-			<div class="left box">
-				<h2>Dados academicos</h2>
-				<div class="content">
-					<p>Instituição de Ensino:<a href= "https://www.unicesumar.edu.br/"target="blank">Unicesumar</a><br>
-					Aluno: Dwight Almeida de Souza<br> RA: 20047170-5<br></p>
-				
-					<div class="social">
-						<a href= "https://www.linkedin.com/in/dwight-souza-0112a474/"target="blank"><span class="fab fa-linkedin" class="logos-redes" width="60px" height="30px"></a>
-						<a href= "https://github.com/DwightSouza/20047170-5_DwightSouza.git"target="blank"><span class="fab fa-github" class="logos-redes" width="60px" height="30px"></a>
-						<a href= "https://wa.me/554796053086"target="blank"><span class="fab fa-whatsapp" class="logos-redes" width="40px" height="40px"></a>
-					</div>
-				</div>
-			</div><!--left-box-->
-			<div class="right box">
-				<h2>Endereço</h2>
-				<div class="content">
-					<div class="place">
-						<span class="fas fa-map-marker"></span>
-						<span class="text">Germano Lemos, Volta Grande, Navegantes-SC
-					</div>
-
-					<div class="email">
-						<span class="fas fa-envelope"></span>
-						<span class="text">dwightsouza@gmail.com</span>
-					</div>
-
-					<div class="phone">
-						<span class="fas fa-phone-alt"></span>
-						<span class="text">+55 47 99605-3086
-					</div>
-				</div>
-			</div><!--center-box-->
-					</form>
-				</div>
-			</div><!--center-box-->
-		</div><!--main-content-->
-		<div class="bottom">
-			<div class="center">
-				<span class="credit">Criado por<a href="https://github.com/DwightSouza/20047170-5_DwightSouza.git"target="blank">Dwight Souza</a></span>
-				<span class="far fa-copyright"> 2021 Todos os direitos reservados</span>
-			</div>
-		</div>
-	</footer>
-</body>
-</html>
