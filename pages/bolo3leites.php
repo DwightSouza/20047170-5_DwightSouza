@@ -32,13 +32,18 @@
 			<div class="center">
 			<img src="../img/bolos/bolo3leites.jpg" width="350" height="350" alt="bolo 3 leites">
 				<p>
-					Já ouviu falar ou experimentou o bolo 3 leites? Originalmente
-					chamado de bolo 3 leches, ele é uma sobremesa de origem latino-americana.
-					Trata-se de um bolo muito molhadinho, feito com leite evaporado, condensado
-					e creme de leite. No Brasil, a receita costuma ser adaptada e o leite evaporado
-					é substituído por leite de coco ou leite comum, como na receita que vamos te
-					mostrar hoje!
+					Já ouviu falar ou experimentou o bolo 3 leites? Originalmente chamado de bolo 3 leches,</p>
+				<p>
+					ele é uma sobremesa de origem latino-americana.	Trata-se de um bolo muito molhadinho,</p>
+				<p>
+					com leite evaporado, condensado e creme de leite. No Brasil, a receita costuma ser adaptada</p>
+				<p> 
+					o leite evaporado é substituído por leite de coco ou leite comum,<p> como na receita que vamos te
+					mostrar hoje!</p>
 				</p>
+				<br>
+				<a href= "https://mpago.la/2UiuPCz"target="blank"><R1>Clique aqui para pagar R$20,00</R1>
+				
 			</div>
 		</article>
 
