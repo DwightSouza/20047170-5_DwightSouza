@@ -400,9 +400,4 @@ div.container4 p {
     margin-right: -50%;
     transform: translate(-50%, -50%) 
 }
-
-
-
-
-
 </style>

@@ -1,20 +1,17 @@
 <!DOCTYPE html>
 <html lang="pt-br">
 <head>
-    <meta charset="utf-8">
-    <title>Arte & Doce</title>
+<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<script src="https://kit.fontawesome.com/a076d05399.js"></script>
+    <title>Arte & Doce</title>
     <link rel="stylesheet" type="text/css" href="css/estilo.css">
-</head>
-
-	
-
-
+	<script src="https://kit.fontawesome.com/a076d05399.js"></script>
 </head>
 
 <body>
+
 	<div id="topo">
+
     	<div id="barraNav">
 			<h1>Arte & Doce</h1>
         	<h5>Aqui você encontra os melhores Doces Caseiros</h5>
@@ -30,95 +27,95 @@
         	</div>
     	</div>
 	</div>
-<form>
-    <form name="f_cadastro" action="#" method="get">
-    <label>Nome:</label>
-    <input class="espaco quebra" type="text" name="f_nome" 
-    maxlength="30" size="30">
-    <label>E-mail:</label>
-    <input class="espaco quebra" type="text" name="f_email" value=""
-    size="30">
-    <label>Mensagem:</label>
-    <input class="espaco quebra" type="text" name="f_mensagem" 
-    maxlength="200">
-    <label class="espaco quebra"><h5>Escolha as opções abaixo:</h5></label>
 
-	<p>Pedido personalizado</p>
-	<input class="quebra" type="checkbox" name="f_pedido">Contato
-    <input class="quebra" type="checkbox" name="f_contato">Trufa de Cafe
-    <input class="quebra" type="checkbox" name="f_trufa">Trufa de Coco
-    <input class="quebra" type="checkbox" name="f_trufa">Trufa de Maracuja
-    <br>
-    <input class="quebra" type="checkbox" name="f_bolo">Bolo de Cenoura
-    <input class="quebra" type="checkbox" name="f_bolo">Bolo de Amendoim
-    <input class="quebra" type="checkbox" name="f_bolo">Bolo de Paçoca
-    <br>
-    <input class="quebra" type="checkbox" name="f_bombom">Bombom de Cereja
-    <input class="quebra" type="checkbox" name="f_bombom">Bombom de Morango
-    <input class="quebra" type="checkbox" name="f_bombom">Bombom de Damasco
-	<input class="quebra" type="checkbox">
-    <div id="dv_btns">
+	<form>
+    	<form name="f_cadastro" action="#" method="get">
+    	<label>Nome:</label>
+		<input class="espaco quebra" type="text" name="f_nome" 
+    	maxlength="30" size="30">
+    	<label>E-mail:</label>
+    	<input class="espaco quebra" type="text" name="f_email" value=""
+    	size="30">
+    	<label>Mensagem:</label>
+    	<input class="espaco quebra" type="text" name="f_mensagem" 
+    	maxlength="200">
+    	<label class="espaco quebra"><h5>Escolha as opções abaixo:</h5></label>
+
+		<p>Pedido personalizado</p>
+
+		<input class="quebra" type="checkbox" name="f_pedido">Contato
+   	 	<input class="quebra" type="checkbox" name="f_contato">Trufa de Cafe
+    	<input class="quebra" type="checkbox" name="f_trufa">Trufa de Coco
+    	<input class="quebra" type="checkbox" name="f_trufa">Trufa de Maracuja
+<br>
+	    <input class="quebra" type="checkbox" name="f_bolo">Bolo de Cenoura
+    	<input class="quebra" type="checkbox" name="f_bolo">Bolo de Amendoim
+    	<input class="quebra" type="checkbox" name="f_bolo">Bolo de Paçoca
+<br>
+	    <input class="quebra" type="checkbox" name="f_bombom">Bombom de Cereja
+    	<input class="quebra" type="checkbox" name="f_bombom">Bombom de Morango
+    	<input class="quebra" type="checkbox" name="f_bombom">Bombom de Damasco
+		<input class="quebra" type="checkbox">
+    	<div id="dv_btns">
         <input class="espaco_t quebra" type="submit" name="f_btn_enviar" value="Enviar">
         <input class="espaco_t quebra" type="reset" name="f_btn_limpar" value="Limpar">
+    	</div>
 
-    </div>
-
-    
-</form>
+	</form>
 <br>
 
 <footer>
 		<div class="main-content">
-			<div class="left box">
-				<h2>Dados academicos</h2>
-				<div class="content">
-					<p>Instituição de Ensino:<a href= "https://www.unicesumar.edu.br/"target="blank">Unicesumar</a><br>
-					Aluno: Dwight Almeida de Souza<br> RA: 20047170-5<br></p>
+				<div class="left box">
+					<h2>Dados academicos</h2>
+					<div class="content">
+						<p>Instituição de Ensino:<a href= "https://www.unicesumar.edu.br/"target="blank">Unicesumar</a><br>
+						Aluno: Dwight Almeida de Souza<br> RA: 20047170-5<br></p>
 				
-					<div class="social">
-						<a href= "https://www.linkedin.com/in/dwight-souza-0112a474/"target="blank"><span class="fab fa-linkedin" class="logos-redes" width="60px" height="30px"></a>
-						<a href= "https://github.com/DwightSouza/20047170-5_DwightSouza.git"target="blank"><span class="fab fa-github" class="logos-redes" width="60px" height="30px"></a>
-						<a href= "https://wa.me/554796053086"target="blank"><span class="fab fa-whatsapp" class="logos-redes" width="40px" height="40px"></a>
+						<div class="social">
+							<a href= "https://www.linkedin.com/in/dwight-souza-0112a474/"target="blank"><span class="fab fa-linkedin" class="logos-redes" width="60px" height="30px"></a>
+							<a href= "https://github.com/DwightSouza/20047170-5_DwightSouza.git"target="blank"><span class="fab fa-github" class="logos-redes" width="60px" height="30px"></a>
+							<a href= "https://wa.me/554796053086"target="blank"><span class="fab fa-whatsapp" class="logos-redes" width="40px" height="40px"></a>
+						</div>
 					</div>
 				</div>
-			</div><!--left-box-->
-			<div class="right box">
-				<h2>Endereço</h2>
-				<div class="content">
-					<div class="place">
-						<span class="fas fa-map-marker"></span>
-						<span class="text">Germano Lemos, Volta Grande, Navegantes-SC
-					</div>
+				<div class="right box">
+					<h2>Endereço</h2>
+					<div class="content">
+						<div class="place">
+							<span class="fas fa-map-marker"></span>
+							<span class="text">Germano Lemos, Volta Grande, Navegantes-SC
+						</div>
 
-					<div class="email">
-						<span class="fas fa-envelope"></span>
-						<span class="text">dwightsouza@gmail.com</span>
-					</div>
+						<div class="email">
+							<span class="fas fa-envelope"></span>
+							<span class="text">dwightsouza@gmail.com</span>
+						</div>
 
-					<div class="phone">
-						<span class="fas fa-phone-alt"></span>
-						<span class="text">+55 47 99605-3086
+						<div class="phone">
+							<span class="fas fa-phone-alt"></span>
+							<span class="text">+55 47 99605-3086
+						</div>
 					</div>
 				</div>
-			</div><!--center-box-->
-					</form>
+						</form>
+					</div>
 				</div>
-			</div><!--center-box-->
-		</div><!--main-content-->
-		<div class="bottom">
-			<div class="center">
-				<span class="credit">Criado por<a href="https://github.com/DwightSouza/20047170-5_DwightSouza.git"target="blank">Dwight Souza</a></span>
-				<span class="far fa-copyright"> 2021 Todos os direitos reservados</span>
 			</div>
-		</div>
-	</footer>
+			<div class="bottom">
+				<div class="center">
+					<span class="credit">Criado por<a href="https://github.com/DwightSouza/20047170-5_DwightSouza.git"target="blank">Dwight Souza</a></span>
+					<span class="far fa-copyright"> 2021 Todos os direitos reservados</span>
+				</div>
+			</div>
+		</footer>
 </body>
 </html>
 
 <style>
 a{
-  font-size: 14px;
-  color: white;
+  	font-size: 14px;
+ 	color: white;
 	text-align: center;
 	text-decoration: none;
 	padding: 5px 20px;
@@ -131,17 +128,19 @@ a:hover{
 #menu{
 	background-color: black;
 	padding: 10px;
+	margin-top: 130px;
 }
 #menu ul{
-  display: table;
-  margin: 5px auto;
+  	display: table;
+  	margin: 5px auto;
 }
 #menu ul li{
-  display:inline;    
+  	display:inline;    
 }
 #topo{
 	background: url('../img/topo/capa.jpg');
 	width: 100%;
+	height: 250px;
 }
 .barraNav {
 	display: table;
@@ -149,44 +148,26 @@ a:hover{
 	background: black;
 }
 h1{
-  font-size: 50px;
+	font-size: 50px;
 	font-family: Verdana;
 	margin: 0;
 	padding: 10px 0px;
-  text-align: center;
-  color: black;
+  	text-align: center;
+  	color: black;
 }
 h5{
-  font-family: verdana;
-  text-align: center;
-  margin: 0px;
-}
-.rodape_final {
-	width: 99%;
-	height: 65px;
-	background-color: rgb(0, 0, 0);
-	color:rgb(255, 255, 255);
-	position:floatval;
-	bottom: 0;
-	margin: 10;
-	padding: 10px;
-	display: flex;
-	justify-content: space-around;
-}
-.rodape_final article h6{
-	text-decoration: none;
-}
-.art_rod{
-	width: 33.33%;
+  	font-family: verdana;
+ 	text-align: center;
+	margin: 0px;
 }
 .quebra{
-  display: block;
+  	display: block;
 }
 .espaco{
-  margin-bottom: 10px;
+ 	 margin-bottom: 10px;
 }
 .espaco_t{
-  margin-top: 15px;
+ 	 margin-top: 15px;
 }
 form{
   margin-top: 60px;
