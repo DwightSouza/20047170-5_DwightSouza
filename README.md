@@ -1,7 +1,12 @@
-# 20047170-5_DwightSouza
+# Dados Academicos
 
+Instituição de Ensino: UNICESUMAR - CENTRO DE ENSINO SUPERIOR
+#
+Curso: SUPERIOR DE TECNOLOGIA EM SISTEMAS PARA INTERNET
+#
+RA: 20047170-5
+#
 
-## Oiii! Eu sou o Dwight 
  <div>
   <a href="https://github.com/dwightsouza">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dwightsouza&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
