@@ -38,6 +38,11 @@
                 especial! Confira a receita completa abaixo e experimente em sua casa junto
                 com a família, todos vão adorar!.
 				</p>
+				<br>
+				<R1>R$20,00</R1><br><br>
+				<script src="https://www.mercadopago.com.br/integrations/v1/web-payment-checkout.js"
+				data-preference-id="7941581-9acabf88-9740-4853-8079-371006469a80" data-source="button"></script>
+
 			</div>
 		</article>
 
