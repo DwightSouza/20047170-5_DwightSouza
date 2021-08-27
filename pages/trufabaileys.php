@@ -32,7 +32,13 @@
 			<div class="center">
 			<img src="../img/trufas/trufabaileys.jpg" width="350" height="350" alt="bolo 3 leites">
 				<p>
-
+				Mime a sua pessoa preferida com estas trufas Baileys,
+				têm uma textura ultra cremosa (mas não exagerada),
+				vai usar alguns ingredientes e pode personalizá-los.
+				Já mencionei que é uma sobremesa sem forno? Vá em frente
+				e prepare-os hoje, você não se arrependerá! Antes de começar,
+				descubra o que realmente é o Baileys e como prepará-lo em 5 minutos,
+				é a versão mais fácil e econômica.
 				</p>
 			</div>
 		</article>

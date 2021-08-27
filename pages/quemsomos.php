@@ -33,20 +33,13 @@
 
 <p>
     Somos uma fábrica que produz doces caseiros com 50% menos açúcar que os doces comuns.
-
-Localizada em Navegantes Santa Catarina, com funcionários treinados e equipados que manuseiam
-
-máquinas e produtos atendendo às exigências da Anvisa.
-
-    Fornecemos para todo o Brasil e temos como meta expandir para outros países,
-
-nossos produtos  são feitos com frutas frescas que são armazenadas em recipientes apropriados por,
-
-no máximo, 3 dias para assim manter os sabores e aparências naturais.
-
+	Localizada em Navegantes Santa Catarina, com funcionários treinados que manuseiam
+	máquinas e produtos, equipados atendendo às exigências da Anvisa.
+    Fornecemos para o litoral de Santa Catarina e temos como meta expandir para todo o Brasil,
+	nossos produtos  são feitos com frutas frescas que são armazenadas em recipientes apropriados por,
+	no máximo, 3 dias para assim manter os sabores e aparências naturais.
     Doces com 50% menos açúcar criando novos sabores e em formatos feitos com a máxima higiene e
-
-principalmente com derivados selecionados de primeira qualidade.</p>
+	principalmente com derivados selecionados de primeira qualidade.</p>
 
 </div>
 <footer>

@@ -133,7 +133,8 @@
 			</header>
 			<p>
 				<img src="img/trufas/trufabaileys.jpg" alt="trufabayles">
-				
+				Mime a sua pessoa preferida com estas trufas Baileys,
+				têm uma textura ultra cremosa (mas não exagerada)...
 			</p>
 			<a href="pages/trufabaileys.php" class="btn btn_green">Ver Mais.</a>
 		</article>
@@ -145,11 +146,9 @@
 			<p>
 				<img src="img/trufas/trufalaranja.jpg" alt="trufalaranja">
 				Para decorar você pode utilizar tirinhas de casca de laranja,
-				corte a casca da laranja, somente a parte amarela, em tirinhas
-				bem fininhas, com ajuda de uma tesoura ou faca bem afiada.
-				Coloque sobre uma das trufas.
+				corte a casca da laranja, somente a parte amarela...
 			</p>
-			<a href="/pages/trufadelaranja.php" class="btn btn_green">Ver Mais.</a>
+			<a href="pages/trufadelaranja.php" class="btn btn_green">Ver Mais.</a>
 		</article>
 
 		<article class="borda_arredondada">
@@ -158,9 +157,12 @@
 			</header>
 			<p>
 				<img src="img/trufas/trufamaracuja.jpg" alt="trufamaracuja">
-			
+				para quem quiser fazer a trufa no tipo rústica, em formato de bolinha,
+				é só deixar o recheio da trufa de um dia para o outro...
 			</p>
-			<a href="#" class="btn btn_green">Ver Mais.</a>
+			<a href="pages/trufademaracuja.php" class="btn btn_green">Ver Mais.</a>
+			
+
 		</article>
 		
 	</section>

@@ -30,12 +30,12 @@
             <h5>Trufa de Laranja</h5>
 <br>
 			<div class="center">
-			<img src="../img/trufas/trufalaranja.jpg" width="350" height="350" alt="bolo 3 leites">
+			<img src="../img/trufas/trufamaracuja.jpg" width="350" height="350" alt="bolo 3 leites">
 				<p>
-                Para decorar você pode utilizar tirinhas de casca de laranja,
-				corte a casca da laranja, somente a parte amarela, em tirinhas
-				bem fininhas, com ajuda de uma tesoura ou faca bem afiada.
-				Coloque sobre uma das trufas.
+                para quem quiser fazer a trufa no tipo rústica, em formato de bolinha,
+                é só deixar o recheio da trufa de um dia para o outro na geladeira e
+                enrolar como se fosse brigadeiro e banhar no chocolate em temperatura
+                ambiente.
 				</p>
 			</div>
 		</article>
