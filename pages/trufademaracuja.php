@@ -37,6 +37,10 @@
                 enrolar como se fosse brigadeiro e banhar no chocolate em temperatura
                 ambiente.
 				</p>
+				<br>
+				<R1>R$4,50</R1><br><br>
+				<script src="https://www.mercadopago.com.br/integrations/v1/web-payment-checkout.js"
+				data-preference-id="7941581-1c8eb112-8f1b-4547-876b-f76b99c1ac92" data-source="button"></script>
 			</div>
 		</article>
 

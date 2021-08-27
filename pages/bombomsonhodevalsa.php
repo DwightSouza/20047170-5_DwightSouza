@@ -40,6 +40,11 @@
 				Sonho de Valsa atravessa gerações mantendo seu sucesso graças a seu
 				sabor único e mistura interessante de texturas.
 				</p>
+				<br>
+				<R1>R$5,00</R1><br><br>
+				<script src="https://www.mercadopago.com.br/integrations/v1/web-payment-checkout.js"
+				data-preference-id="7941581-a979d6e2-3a89-48af-9f5b-34fbccfad73c" data-source="button"></script>
+
 			</div>
 		</article>
 

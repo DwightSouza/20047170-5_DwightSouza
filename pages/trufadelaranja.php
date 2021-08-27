@@ -37,6 +37,10 @@
 				bem fininhas, com ajuda de uma tesoura ou faca bem afiada.
 				Coloque sobre uma das trufas.
 				</p>
+				<br>
+				<R1>R$3,50</R1><br><br>
+				<script src="https://www.mercadopago.com.br/integrations/v1/web-payment-checkout.js"
+				data-preference-id="7941581-c91b27a5-3950-41e8-add1-c6eb05b1ab14" data-source="button"></script>
 			</div>
 		</article>
 

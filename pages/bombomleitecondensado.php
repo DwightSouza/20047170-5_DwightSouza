@@ -38,6 +38,10 @@
 				é irresistível! Além disso, o modo de preparo é descomplicado, rápido e rende
 				30 unidades. Só pontos positivos para esta delícia!
 				</p>
+				<br>
+				<R1>R$5,00</R1><br><br>
+				<script src="https://www.mercadopago.com.br/integrations/v1/web-payment-checkout.js"
+				data-preference-id="7941581-28310653-5d83-4551-a70e-ea91360bc51b" data-source="button"></script>
 			</div>
 		</article>
 

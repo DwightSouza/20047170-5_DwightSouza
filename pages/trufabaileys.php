@@ -40,6 +40,10 @@
 				descubra o que realmente é o Baileys e como prepará-lo em 5 minutos,
 				é a versão mais fácil e econômica.
 				</p>
+				<br>
+				<R1>R$5,00</R1><br><br>
+				<script src="https://www.mercadopago.com.br/integrations/v1/web-payment-checkout.js"
+				data-preference-id="7941581-e4b2a8d0-511d-49f0-ba0e-79b1dfcea48c" data-source="button"></script>
 			</div>
 		</article>
 

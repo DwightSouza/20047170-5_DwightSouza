@@ -40,6 +40,10 @@
                 permitidos os melhoradores de produtos, tais como anti-mofo, conservantes, aditivos, corantes,
                 emulsificantes.
 				</p>
+				<br>
+				<R1>R$4,50</R1><br><br>
+				<script src="https://www.mercadopago.com.br/integrations/v1/web-payment-checkout.js"
+				data-preference-id="7941581-f4b045b4-f12e-4818-886e-61cc855baed8" data-source="button"></script>
 			</div>
 		</article>
 

@@ -27,7 +27,6 @@
 
 	<header class="center">
 <br>
-		<p>Seja bem vindo a minha loja virtual de doces.</p>
 	</header>
 
 	<section class="main borda_arredondada">

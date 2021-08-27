@@ -43,6 +43,10 @@
 				né? Caso ache necessário, você pode fazer seu bolo de chocolate na batedeira em vez de
 				fazer no liquidificador, o resultado fica perfeito também!
 				</p>
+				<br>
+				<R1>R$25,00</R1><br><br>
+				<script src="https://www.mercadopago.com.br/integrations/v1/web-payment-checkout.js"
+				data-preference-id="7941581-74822f5e-84e3-42e2-94a3-aa805c15cf4f" data-source="button"></script>
 			</div>
 		</article>
 
