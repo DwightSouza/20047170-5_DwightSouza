@@ -27,7 +27,7 @@
     	</div>
 	</div>
 <br>
-            <h5>Trufa de Laranja</h5>
+            <h5>Trufa de Maracuja</h5>
 <br>
 			<div class="center">
 			<img src="../img/trufas/trufamaracuja.jpg" width="350" height="350" alt="bolo 3 leites">
